@@ -1,0 +1,5 @@
+Item #,Quantity,Component,Description,Manufacturer,Part Number,Package/Footprint
+1,1,Seeed Studio XIAO RP2040,Dual-core ARM Cortex M0+ microcontroller,Seeed Studio,102010428,SMD/Through-hole
+2,1,1.8" TFT LCD Display,128x160 Resolution SPI Color TFT (ST7735),Generic/Adafruit,N/A,Breakout/Pin Header
+3,1,USB-C Cable,Data/Power cable for XIAO,Generic,N/A,USB-C
+4,1,Jumper Wires/Headers,2.54mm pitch connectors for interfacing,Generic,N/A,2.54mm
